@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.f6fe095c.chunk.js",
-    "main.js.map": "/static/js/main.f6fe095c.chunk.js.map",
+    "main.js": "/static/js/main.475d4f2a.chunk.js",
+    "main.js.map": "/static/js/main.475d4f2a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.823de03c.js",
     "runtime-main.js.map": "/static/js/runtime-main.823de03c.js.map",
-    "static/js/2.9095a9d9.chunk.js": "/static/js/2.9095a9d9.chunk.js",
-    "static/js/2.9095a9d9.chunk.js.map": "/static/js/2.9095a9d9.chunk.js.map",
+    "static/js/2.f52879f2.chunk.js": "/static/js/2.f52879f2.chunk.js",
+    "static/js/2.f52879f2.chunk.js.map": "/static/js/2.f52879f2.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.9095a9d9.chunk.js.LICENSE.txt": "/static/js/2.9095a9d9.chunk.js.LICENSE.txt",
+    "static/js/2.f52879f2.chunk.js.LICENSE.txt": "/static/js/2.f52879f2.chunk.js.LICENSE.txt",
     "static/media/arrow.3ae8ce2a.svg": "/static/media/arrow.3ae8ce2a.svg",
     "static/media/clock.287d5536.svg": "/static/media/clock.287d5536.svg",
     "static/media/cross-pattern.49cedf62.svg": "/static/media/cross-pattern.49cedf62.svg",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.823de03c.js",
-    "static/js/2.9095a9d9.chunk.js",
-    "static/js/main.f6fe095c.chunk.js"
+    "static/js/2.f52879f2.chunk.js",
+    "static/js/main.475d4f2a.chunk.js"
   ]
 }
